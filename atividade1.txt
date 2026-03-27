@@ -1,0 +1,6 @@
+nome:  lays mikayna rodrigues brilhante
+curso: programador full stack
+escola SENAI cel. auton furtado
+
+escolaridade: ensino medio
+idade:17
